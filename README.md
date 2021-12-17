@@ -6,7 +6,7 @@ A tower defense game made in unity
 2. [Usage](#Usage)
 3. [Installation](#installation)
 4. [Important Files](#Important-Files)
-5. [Remaining Bugs/Collaboration](#Bugs/Colaboration)
+5. [Remaining Bugs/Collaboration](#Bugs/Collaboration)
 
 ### General Info
 This project is a work in progress tower defense game. 
@@ -45,7 +45,7 @@ All important files for this project are contained within the assets folder, the
 6. Wave_Controller.cs: holds game controller class code
 7. Waypoints.cs: golds waypoint class code
 
-####### Bugs/Colaboration
+#######Bugs/Collaboration
 Currently the only bug is that the turret will not work, also its materials are having trouble importing.
 If you were to collaborate in this project some good stepping stones would be as follows:
 1. Make turret track enemy prefab
