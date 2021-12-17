@@ -43,7 +43,7 @@ All important files for this project are contained within the assets folder, the
 6. Wave_Controller.cs: holds game controller class code
 7. Waypoints.cs: golds waypoint class code
 
-#######Bugs/Colaboration
+####### Bugs/Colaboration
 Currently the only bug is that the turret will not work, also its materials are having trouble importing.
 If you were to collaborate in this project some good stepping stones would be as follows:
 1. Make turret track enemy prefab
