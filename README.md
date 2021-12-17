@@ -21,6 +21,7 @@ How to install:
 3. Open Unity project
 4. Assign Enemy, Start, and Text prefabs to game controller and scripts to their appropriate prefabs of the same names.
 5. Press place and it should look like this image:
+
 ![better run]https://github.com/HotFunyun23/TowerDefenseGame/blob/main/better%20run.PNG
 
 ###### Important-Files
