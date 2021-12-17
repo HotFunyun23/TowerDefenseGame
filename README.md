@@ -43,7 +43,7 @@ All important files for this project are contained within the assets folder, the
 + Main Scene: Hosts main scene were all game objects are
 5. Enemy.cs: holds enemy class code
 6. Wave_Controller.cs: holds game controller class code
-7. Waypoints.cs: golds waypoint class code
+7. Waypoints.cs: holds waypoint class code
 
 #######Bugs/Collaboration
 Currently the only bug is that the turret will not work, also its materials are having trouble importing.
